@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vuejscomponent
 
 ## Project setup
