@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuejscomponent
 
 ## Project setup
@@ -27,3 +28,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vuejs
+>>>>>>> f275fca0b1afb7620b9836653d3c279c0fa8c5b3
