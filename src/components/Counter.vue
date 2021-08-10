@@ -7,7 +7,7 @@
       <div class="level-item">
         <button class="button" @click="incrementCounter">
         <span class="icon">
-        <i class="fa fa-plus"></i>
+        <i class="fa fa-plus">+</i>
         </span>
         </button>
       </div>
@@ -17,7 +17,7 @@
       <div class="level-item">
         <button class="button" @click="decrementCounter">
         <span class="icon">
-        <i class="fa fa-minus"></i>
+        <i class="fa fa-minus">-</i>
         </span>
         </button>
       </div>
